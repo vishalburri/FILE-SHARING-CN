@@ -1,0 +1,1094 @@
+!!!!!!!!!!!!!!!!!Server started at 02:35PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43644)at02:35PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 02:35PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 02:36PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43650)at02:36PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 02:39PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 02:39PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43654)at02:40PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 02:40PM March 22, 2017
+----------Got a connection from client with addr('127.0.0.1', 43660)at02:41PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 02:41PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 02:41PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!Server started at 02:42PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43662)at02:42PM March 22, 2017------
+Requested Commands:
+1.Download TCP 1.txt
+2.
+Connection closed to client at 02:45PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 02:49PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!Server started at 02:49PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43704)at02:50PM March 22, 2017------
+Requested Commands:
+1.Download TCP 1.txt
+2.
+Connection closed to client at 02:51PM March 22, 2017
+----------Got a connection from client with addr('127.0.0.1', 43708)at02:51PM March 22, 2017------
+Requested Commands:
+1.Download TCP 1.txt
+2.Download TCP 1.txt
+3.
+Connection closed to client at 02:53PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 02:54PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43710)at02:54PM March 22, 2017------
+Requested Commands:
+1.Download TCP 1.txt
+2.Download TCP a.txt
+3.Download TCP 1.txt
+4.
+Connection closed to client at 02:55PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 04:24PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 43992)at04:24PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+!!!!!!!!!!!!!!!!!Server started at 04:28PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44000)at04:28PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+!!!!!!!!!!!!!!!!!Server started at 04:34PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44010)at04:34PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+!!!!!!!!!!!!!!!!!Server started at 04:37PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 40404)at04:37PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+2.
+Connection closed to client at 04:49PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 04:50PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44096)at04:50PM March 22, 2017------
+Requested Commands:
+1.Index longlist
+2.
+Connection closed to client at 04:50PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 04:53PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44100)at04:53PM March 22, 2017------
+Requested Commands:
+!!!!!!!!!!!!!!!!!Server started at 05:00PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 40508)at05:00PM March 22, 2017------
+Requested Commands:
+1.Index longlist
+2.
+Connection closed to client at 05:01PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:03PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44134)at05:03PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+2.
+Connection closed to client at 05:04PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:05PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44142)at05:05PM March 22, 2017------
+Requested Commands:
+1.Download UDP 1.txt
+2.Download TCP 1.txt
+3.Download TCP 1.txt
+4.Download TCP 2.txt
+5.
+Connection closed to client at 05:07PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 06:04PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44406)at06:04PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:05PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 40800)at06:05PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:05PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44416)at06:06PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:14PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44458)at06:14PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:16PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44462)at06:16PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:18PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44466)at06:18PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:19PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44988)at06:19PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:26PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44476)at06:26PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:27PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 40866)at06:27PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 06:28PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44480)at06:28PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+Connection closed to client at 06:29PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 06:29PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44488)at06:29PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+Connection closed to client at 06:30PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 06:47PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44594)at06:47PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 06:47PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 06:51PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44606)at06:51PM March 22, 2017------
+Requested Commands:
+1.getlist
+!!!!!!!!!!!!!!!!!Server started at 06:55PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41008)at06:55PM March 22, 2017------
+Requested Commands:
+1.getlist
+!!!!!!!!!!!!!!!!!Server started at 06:56PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45142)at06:56PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 06:56PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:20PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44852)at07:20PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:23PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:23PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44854)at07:23PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:25PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:25PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44860)at07:26PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:26PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:26PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44862)at07:26PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:26PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:27PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44866)at07:27PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:27PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:28PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44868)at07:28PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:28PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:29PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44874)at07:29PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:29PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:30PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44878)at07:30PM March 22, 2017------
+Requested Commands:
+1.getlist
+!!!!!!!!!!!!!!!!!Server started at 07:31PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45398)at07:31PM March 22, 2017------
+Requested Commands:
+1.getlist
+!!!!!!!!!!!!!!!!!Server started at 07:32PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44882)at07:32PM March 22, 2017------
+Requested Commands:
+1.
+Connection closed to client at 07:32PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:33PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44884)at07:33PM March 22, 2017------
+Requested Commands:
+1.getlist
+2.
+Connection closed to client at 07:34PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 07:35PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44890)at07:35PM March 22, 2017------
+Requested Commands:
+1.getlist
+!!!!!!!!!!!!!!!!!Server started at 07:36PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41280)at07:36PM March 22, 2017------
+Requested Commands:
+1.Automategetlist
+!!!!!!!!!!!!!!!!!Server started at 07:38PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44894)at07:38PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:40PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44896)at07:40PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:46PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44898)at07:46PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:53PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44900)at07:53PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:54PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44902)at07:55PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:55PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44904)at07:55PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:55PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44906)at07:55PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 07:58PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44908)at07:59PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 08:00PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44910)at08:00PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:00PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44912)at08:01PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:02PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44914)at08:02PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:04PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44916)at08:04PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:05PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44918)at08:06PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:06PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44920)at08:06PM March 22, 2017------
+Requested Commands:
+1.exit
+Connection closed to client at 08:06PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:33PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44922)at08:34PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 08:34PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44924)at08:34PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:35PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44926)at08:35PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 08:36PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44928)at08:36PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 08:37PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44930)at08:37PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:39PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44932)at08:39PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:41PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44934)at08:42PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+!!!!!!!!!!!!!!!!!Server started at 08:42PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44936)at08:42PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:43PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:44PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44938)at08:44PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:44PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:45PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44940)at08:45PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:47PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:47PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55802)at08:47PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:47PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:48PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44944)at08:48PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:48PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:50PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55806)at08:50PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:50PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:51PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55808)at08:51PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:52PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:53PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55810)at08:53PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:53PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:54PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55812)at08:55PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:55PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:56PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55814)at08:56PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:57PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:57PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55816)at08:57PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 08:57PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 08:58PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55818)at08:58PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:01PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:01PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55820)at09:01PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:07PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:08PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55822)at09:08PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:10PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:10PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55824)at09:10PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:10PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:10PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55826)at09:10PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:10PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:11PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55828)at09:12PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:12PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:13PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55830)at09:13PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:14PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:15PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55832)at09:15PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:42PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:42PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55834)at09:42PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:47PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:47PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55836)at09:47PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+Connection closed to client at 09:47PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:48PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44978)at09:48PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+Connection closed to client at 09:48PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:50PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55840)at09:50PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:51PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:51PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55842)at09:51PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:51PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:54PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55844)at09:55PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:55PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:56PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44986)at09:56PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 09:56PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 09:58PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55848)at09:58PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 10:01PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45508)at10:01PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 10:04PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 38224)at10:04PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:04PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:05PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44994)at10:05PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:07PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:07PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 44996)at10:07PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:08PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:09PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45516)at10:09PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:09PM March 22, 2017
+----------Got a connection from client with addr('127.0.0.1', 45518)at10:10PM March 22, 2017------
+Requested Commands:
+1.Download TCP server.log
+2.
+Connection closed to client at 10:11PM March 22, 2017
+----------Got a connection from client with addr('127.0.0.1', 45520)at10:11PM March 22, 2017------
+Requested Commands:
+1.Download TCP server.log
+2.
+Connection closed to client at 10:12PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:12PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45004)at10:13PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:15PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:15PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45006)at10:15PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:15PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:22PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45008)at10:22PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:23PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:23PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45010)at10:23PM March 22, 2017------
+Requested Commands:
+1.Download TCP server.log
+2.
+Connection closed to client at 10:26PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:26PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45012)at10:26PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:27PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:27PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45014)at10:27PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:28PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:28PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45016)at10:28PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+3.
+Connection closed to client at 10:29PM March 22, 2017
+!!!!!!!!!!!!!!!!!Server started at 10:31PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45018)at10:31PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 10:32PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55880)at10:32PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 10:39PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45022)at10:39PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 10:47PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55884)at10:47PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.getlist
+!!!!!!!!!!!!!!!!!Server started at 11:02PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 33838)at11:02PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:06PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45044)at11:06PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 11:08PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45046)at11:08PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 11:08PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45048)at11:08PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 11:13PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 60122)at11:13PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:34PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 53254)at11:34PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 11:35PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 53256)at11:35PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.
+!!!!!!!!!!!!!!!!!Server started at 11:36PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45596)at11:36PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:36PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45080)at11:36PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:39PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55950)at11:39PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:42PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45610)at11:42PM March 22, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 11:44PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 60166)at11:44PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+!!!!!!!!!!!!!!!!!Server started at 11:46PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45100)at11:46PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+!!!!!!!!!!!!!!!!!Server started at 11:47PM March 22, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 45102)at11:47PM March 22, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+!!!!!!!!!!!!!!!!!Server started at 01:25PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41398)at01:25PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 01:26PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 39648)at01:26PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 01:26PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 01:27PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 39652)at01:27PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 01:27PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 01:30PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41408)at01:30PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 01:31PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41410)at01:31PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 01:32PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49072)at01:33PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 01:33PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41416)at01:33PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 01:35PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41420)at01:35PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 01:35PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 03:39PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41534)at03:39PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 03:39PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 03:40PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41536)at03:40PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 03:40PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 03:42PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49198)at03:42PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.received
+3.
+Connection closed to client at 03:42PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 03:43PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49204)at03:43PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.
+Connection closed to client at 03:45PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 03:45PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49206)at03:45PM March 23, 2017------
+Requested Commands:
+1.Automate
+!!!!!!!!!!!!!!!!!Server started at 04:13PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49274)at04:13PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+!!!!!!!!!!!!!!!!!Server started at 04:14PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41620)at04:14PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+!!!!!!!!!!!!!!!!!Server started at 04:16PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49284)at04:17PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.Download TCP 1.txt
+4.
+Connection closed to client at 04:17PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 04:17PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55430)at04:17PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.Download TCP 1.txt
+!!!!!!!!!!!!!!!!!Server started at 04:21PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 55432)at04:21PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+!!!!!!!!!!!!!!!!!Server started at 05:32PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41930)at05:32PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.
+Connection closed to client at 05:32PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:33PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41932)at05:33PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.Automate
+4.Download TCP server.log
+5.Download TCP 1.txt
+6.Automate
+7.Download TCP server.log
+8.Download TCP 1.txt
+9.Automate
+10.Download TCP server.log
+11.Download TCP 1.txt
+12.Automate
+13.Download TCP server.log
+14.Download TCP 1.txt
+15.Automate
+16.Download TCP server.log
+17.Download TCP 1.txt
+18.Automate
+19.Download TCP server.log
+20.Download TCP 1.txt
+21.Automate
+22.Download TCP server.log
+23.Download TCP 1.txt
+24.Automate
+25.Download TCP server.log
+26.Download TCP 1.txt
+27.Automate
+28.Download TCP server.log
+29.Download TCP 1.txt
+30.Automate
+31.Download TCP server.log
+32.Download TCP 1.txt
+33.Automate
+34.Download TCP server.log
+35.Download TCP 1.txt
+36.Automate
+37.Download TCP server.log
+38.Download TCP 1.txt
+39.Automate
+40.Download TCP server.log
+41.Download TCP 1.txt
+42.Automate
+43.Download TCP server.log
+44.Download TCP 1.txt
+45.
+Connection closed to client at 05:34PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:49PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 40004)at05:49PM March 23, 2017------
+Requested Commands:
+1.Download TCP 1.txt
+2.
+Connection closed to client at 05:49PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:50PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 49596)at05:50PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.Download TCP 1.txt
+4.Automate
+5.Download TCP server.log
+6.Download TCP 1.txt
+7.Automate
+8.Download TCP server.log
+9.Download TCP 1.txt
+10.Automate
+11.Download TCP server.log
+12.Download TCP 1.txt
+13.Automate
+14.Download TCP server.log
+15.Download TCP 1.txt
+16.Automate
+17.Download TCP server.log
+18.Download TCP 1.txt
+19.Automate
+20.Download TCP server.log
+21.Download TCP 1.txt
+22.Automate
+23.Download TCP server.log
+24.Download TCP 1.txt
+25.Automate
+26.Download TCP server.log
+27.Download TCP 1.txt
+28.Automate
+29.Download TCP server.log
+30.Download TCP 1.txt
+31.
+Connection closed to client at 05:50PM March 23, 2017
+!!!!!!!!!!!!!!!!!Server started at 05:51PM March 23, 2017!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+----------Got a connection from client with addr('127.0.0.1', 41938)at05:52PM March 23, 2017------
+Requested Commands:
+1.Automate
+2.Download TCP server.log
+3.Automate
+4.Automate
+5.Automate
+6.Automate
+7.Automate
+8.Automate
+9.Automate
+10.Automate
+11.Automate
+12.Automate
+13.Automate
+14.Automate
+15.Automate
+16.Automate
+17.Automate
+18.Automate
+19.Automate
+20.Automate
+21.Automate
+22.Automate
+23.Automate
+24.Automate
+25.Automate
+26.Automate
+27.Automate
+28.Automate
+29.Automate
+30.Automate
+31.Automate
+32.Automate
+33.Automate
+34.Automate
+35.Automate
+36.Automate
+37.Automate
+38.Automate
+39.Automate
+40.Automate
+41.Automate
+42.Automate
+43.Automate
+44.Automate
+45.Automate
+46.Automate
